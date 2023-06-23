@@ -4,8 +4,7 @@ import java.net.MalformedURLException;
 
 public class FirstTaskTest {
 
-    // გამარჯობა, ჩემი ლეპტოპი თითქმის ვერ ერევა Android Emulator-ს
-    // ეს დავალება წესით ბოლომდეა მიყვანილი და ჩასასწორებელი იქნება სავარაუდოდ დეტალები
+    
 
     @Test
     public void firstTaskTest() throws MalformedURLException, InterruptedException {
